@@ -12,6 +12,6 @@ pip install requests
 Certifique-se de que o Ollama está configurado e rodando localmente no endpoint http://localhost:11434/v1/embeddings.
 
 # Execute o script com:
-python gerar_embeddings.py
+py GerarEmbeddings.py
 
 O script fará uma requisição POST para o servidor Ollama local e exibirá os embeddings gerados ou um erro em caso de falha.
