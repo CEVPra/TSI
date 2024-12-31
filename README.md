@@ -3,8 +3,7 @@
 Este repositório contém um script Python para gerar embeddings a partir de um texto utilizando a API do Ollama. O código realiza uma requisição POST para o endpoint local do Ollama e retorna os embeddings baseados no modelo all-minilm.
 
 # Pré-requisitos
-Python 3.x
-Biblioteca requests
+Python 3.x e biblioteca requests
 
 # Instale a dependência com:
 pip install requests
